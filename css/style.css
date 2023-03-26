@@ -1,0 +1,17 @@
+body
+ {
+  background-color: #EEEEEE;
+ }
+
+hr 
+{
+   border-color: #3A98B9;
+   border-style: dotted none none none;
+   width: 40%;
+   border-width: 5px; 
+}
+ 
+.hover:hover
+{
+   color: #3A98B9;
+}
